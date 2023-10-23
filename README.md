@@ -267,9 +267,11 @@ The final output for each row of data is a binary label of 0 referring to the ti
     Result from Indian Language Dataset
 </p>
 
+<br>
 <p align="justify">
 As seen above, the accuracy of prediction is 70% on the Indian languages youtube dataset. This is almost at par with the state of the art results obtained by training mBERT.
 </p>
+<br>
 
 <p align="center">
     <img src="./images/image-17.png">
@@ -279,6 +281,7 @@ As seen above, the accuracy of prediction is 70% on the Indian languages youtube
     Manual Classification Results on Indian Language Trained Model
 </p>
 
+<br>
 <p align="justify">
 As shown above we have correctly classified three clickbait titles in English, Hindi and Tamil.
 </p>
