@@ -1,7 +1,5 @@
 # Clickbait Classification of YouTube Video Titles
 
-<i> Note: Please star the repo if you find this project useful. </i>
-
 ## Objective
 
 <p align="justify">
